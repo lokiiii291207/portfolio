@@ -1,4 +1,4 @@
-# Hi 👋 I'm Pradeep
+# Hi 👋 I'm Logeshwaran
 
 ## About Me
 🎓 Computer Science and Engineering Student
